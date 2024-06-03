@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akhil P Vijayan.
-- 🌱 I'm a Senior Software Engineer expertised on .NET and Angular stack.
+- 🌱 I'm a Senior Software Engineer focused on .NET and Angular stack.
 - 💞️ I’m looking to collaborate on .NET and Angular projects
 - 📫 How to reach me akhilpv88.apg@gmail.com
 - 🌱 I am open for full-time roles in full stack developer/software engineer domain.
@@ -17,5 +17,12 @@ Tech Stack
 [![Jenkins](https://img.shields.io/badge/Jenkins-6b0505?style=flat-square&logo=jenkins&logoColor=white)](#)
 [![MatUI](https://img.shields.io/badge/MatUI-1f5fad?style=flat-square&logo=materialdesign&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-114ffa?style=flat-square&logo=css3&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-d9830b?style=flat-square&logo=html5&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-212120?style=flat-square&logo=git&logoColor=white)](#)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-026afa?style=flat-square&logo=bitbucket&logoColor=white)](#)
+[![Jira](https://img.shields.io/badge/Jira-026afa?style=flat-square&logo=jira&logoColor=white)](#)
+[![Confluence](https://img.shields.io/badge/Confluence-026afa?style=flat-square&logo=confluence&logoColor=white)](#)
+[![Canva](https://img.shields.io/badge/Canva-0764fa?style=flat-square&logo=canva&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-212120?style=flat-square&logo=figma&logoColor=white)](#)
 
 
