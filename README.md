@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Akhil P Vijayan.
-- 👀 I’m interested in collabarating with Machine learning and Computer Vision projects.
 - 🌱 I'm a senior software engineer working on .NET and Angular stack.
 - 💞️ I’m looking to collaborate on .NET and Angular projects
 - 📫 How to reach me akhilpv88.apg@gmail.com
