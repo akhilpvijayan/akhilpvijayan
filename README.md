@@ -10,6 +10,6 @@
 Tech Stack
 <!-- List the technologies and tools you're proficient in -->
 [![.NET](https://img.shields.io/badge/.NET-3776AB?style=flat-square&logo=dotnet&logoColor=white)](#)
-[![Angular](https://img.shields.io/badge/Angular-3776AB?style=flat-square&logo=angular&logoColor=Red)](#)
+[![Angular](https://img.shields.io/badge/Angular-3776AB?style=flat-square&logo=angular&logoColor=red)](#)
 
 
