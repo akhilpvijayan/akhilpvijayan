@@ -25,6 +25,9 @@ Tech Stack
 [![Canva](https://img.shields.io/badge/Canva-0764fa?style=flat-square&logo=canva&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-212120?style=flat-square&logo=figma&logoColor=white)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilpvijayan&layout=compact)](https://github.com/akhilpvijayan/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=akhilpvijayan&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/akhilpvijayan/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=akhilpvijayan&layout=compact&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/akhilpvijayan/github-readme-stats#gh-light-mode-only)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akhilpvijayan&theme=sunset-gradient)](https://git.io/streak-stats)
