@@ -25,4 +25,6 @@ Tech Stack
 [![Canva](https://img.shields.io/badge/Canva-0764fa?style=flat-square&logo=canva&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-212120?style=flat-square&logo=figma&logoColor=white)](#)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilpvijayan&layout=compact)](https://github.com/akhilpvijayan/github-readme-stats)
+
 
