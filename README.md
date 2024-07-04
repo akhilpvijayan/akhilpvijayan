@@ -30,4 +30,6 @@ Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=akhilpvijayan&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/akhilpvijayan/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=akhilpvijayan&layout=compact&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/akhilpvijayan/github-readme-stats#gh-light-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akhilpvijayan&theme=sunset-gradient)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akhilpvijayan&theme=dark)](https://git.io/streak-stats)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/akhilpvijayan?ext=heatmap)
