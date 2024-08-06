@@ -24,7 +24,11 @@ Tech Stack
 [![Confluence](https://img.shields.io/badge/Confluence-026afa?style=flat-square&logo=confluence&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-0764fa?style=flat-square&logo=canva&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-212120?style=flat-square&logo=figma&logoColor=white)](#)
-
+[![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](#)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=akhilpvijayan&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/akhilpvijayan/github-readme-stats#gh-dark-mode-only)
